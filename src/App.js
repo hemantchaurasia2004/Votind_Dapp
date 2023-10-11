@@ -147,5 +147,5 @@ async function canVote() {
     </div>
   );
 }
-
+//error handling is performed using console.error
 export default App;
